@@ -31,6 +31,7 @@ Run the script:
 bash
 Copy code
 python scrapingsites.py
+
 The script will start scraping content from the specified endpoints listed in the end_point_list. It will create folders for each endpoint and store the scraped content (text files, images, and summary reports) in their respective folders.
 Once the scraping is complete, you can find the scraped content organized in the project directory.
 Configuration
