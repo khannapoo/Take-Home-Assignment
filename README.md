@@ -1,4 +1,6 @@
 Web Scraper for Franchise Supplier Network
+
+
 This Python script is designed to scrape content from the Franchise Supplier Network website. It extracts text content, images, and URLs from various pages of the website and organizes them into folders for further analysis or storage.
 
 Features
@@ -16,7 +18,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/franchise-supplier-scraper.git
+git clone https://github.com/khannapoo/franchise-supplier-scraper.git
 Navigate to the project directory:
 bash
 Copy code
